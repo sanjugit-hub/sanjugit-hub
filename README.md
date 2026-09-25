@@ -41,6 +41,7 @@ I work on developing computational workflows, analyzing high-throughput sequenci
 
 ### Tools & Technologies
 - Linux
+- conda, snakemake
 - Git & GitHub
 - MySQL
 - Nextflow
